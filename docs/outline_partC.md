@@ -21,10 +21,10 @@ Target variables:
 
 **4. Planned Methods & Analysis**
 **A. Data Cleaning & Preprocessing**
-- Handle missing values
-- Convert data types
-- Clean text fields
-- Create new variables (sales category, maybe profit, normalized features, and so on)
+- Handling missing values
+- Converting data types
+- Cleaning text fields
+- Creating new variables (sales category, maybe profit, normalized features, and so on)
 
 **B. Exploratory Data Analysis**
 - Summary statistics
@@ -44,8 +44,8 @@ Target variables:
 - K-Nearest Neighbors (KNN)
 
 **D. Feature Engineering**
-- Create High_Sales based on median threshold
-- Possibly create:
+- Creating High_Sales based on median threshold
+- Possibly creating:
      - Price bins
      - Interaction terms
      - Standardized numerical features
@@ -66,12 +66,12 @@ Target variables:
 - k-Fold Cross-Validation
   
 **F. Model Comparison**
-- Compare all models using consistent evaluation criteria
-- Identify best performing models
-- Discuss reasons (overfitting, underfitting, regularization effects, and so on)
+- Comparing all models using consistent evaluation criteria
+- Identifying best performing models
+- Discussing reasons (overfitting, underfitting, regularization effects, and so on)
 
 **5. Expected Deliverables (Part D)**
-- Fully clean dataset (in /data)
+- Fully cleaning dataset (in /data)
 - Scripts for cleaning and modeling (in /scripts)
 - Jupyter notebooks:
     - 01_EDA.ipynb
