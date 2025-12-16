@@ -50,9 +50,9 @@ Tools and Libraries
 - scikit-learn
 - matplotlib
 
- Author
- Yokutjon Tohirova
- ISTA 421 – Final Project
+ Author 
+ Yokutjon Tohirova 
+ ISTA 421 – Final Project 
 
 
 
