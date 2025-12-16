@@ -37,23 +37,6 @@ Key Findings
 - Decision trees capture nonlinear relationships but may overfit on small datasets.
 Overall, regularized logistic regression offers the best balance between interpretability and predictive performance for this dataset.
 
-Repository Structure
-├── data/
-│   └── Sales-Data-Analysis.csv
-│
-├── notebooks/
-│   └── 01_EDA.ipynb
-│
-├── scripts/
-│   └── clean_data.py
-│
-├── results/
-│   ├── plots/
-│   ├── metrics/
-│   └── tables/
-│
-└── README.md
-
 How to Run
 1. Clone the repository
 2. Open 01_EDA.ipynb in Jupyter
